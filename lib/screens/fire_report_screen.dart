@@ -82,7 +82,7 @@ class _FireReportScreenState extends State<FireReportScreen> {
                 const SizedBox(width: 10),
                 const Expanded(
                   child: Text(
-                    'Signaler un Incendie',
+                    'Signaler un Incendiee',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 22,
