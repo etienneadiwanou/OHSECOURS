@@ -39,7 +39,7 @@ class _MedicalReportScreenState extends State<MedicalReportScreen> {
             "${position.latitude.toStringAsFixed(5)}, ${position.longitude.toStringAsFixed(5)}";
       });
     } catch (e) {
-      debugPrint("Erreur de géolocalisation : $e");
+      debugPrint("Erreur  géolocalisation : $e");
     }
   }
 
